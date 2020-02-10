@@ -1,0 +1,36 @@
+Number of start and end points on the tmc map
+
+Start - starting point
+End - goal
+Eff - Efficency
+
+Start(4,5) End(13,7)  Eff 0.044609666
+Start(7,3) End(9,2)  Eff 0.17391305
+Start(11,13) End(9,8)  Eff 0.0754717
+Start(9,10) End(11,3)  Eff 0.04784689
+Start(11,6) End(4,10)  Eff 0.04225352
+Start(10,0) End(11,11)  Eff 0.06989247
+Start(8,11) End(5,11)  Eff 0.12903225
+Start(4,5) End(9,12)  Eff 0.04391892
+Start(5,4) End(10,11)  Eff 0.04347826
+Start(5,1) End(4,4)  Eff 0.1388889
+Start(11,6) End(11,2)  Eff 0.15151516
+Start(1,13) End(4,1)  Eff 0.06225681
+Start(11,1) End(14,3)  Eff 0.08955224
+Start(9,8) End(6,2)  Eff 0.046296295
+Start(8,0) End(7,12)  Eff 0.06392694
+Start(14,10) End(10,11)  Eff 0.08695652
+Start(6,3) End(0,8)  Eff 0.04743083
+Start(1,8) End(12,13)  Eff 0.05029586
+Start(2,13) End(7,2)  Eff 0.056478404
+Start(1,12) End(8,2)  Eff 0.05625
+Start(11,9) End(11,11)  Eff 0.33333334
+Start(6,3) End(14,9)  Eff 0.044247787
+Start(6,13) End(13,8)  Eff 0.047272727
+Start(3,0) End(6,11)  Eff 0.06465517
+Start(7,0) End(9,3)  Eff 0.12765957
+Start(6,2) End(9,0)  Eff 0.12
+Start(13,3) End(5,4)  Eff 0.06369427
+Start(2,3) End(7,6)  Eff 0.08256881
+Start(6,14) End(10,5)  Eff 0.05204461
+Start(14,3) End(8,13)  Eff 0.05704698
